@@ -21,6 +21,7 @@ Then run `/chief-of-staff:setup`. It interviews you and scaffolds your own memor
 
 | repo | what it is |
 |---|---|
+| [loop-closer](https://github.com/loganhc-09/loop-closer) | brain dump in, swipeable task deck out. task tinder for ADHD brains: sizes, first moves, timers, XP. [Try it in the browser](https://loganhc-09.github.io/loop-closer/), nothing to install. |
 | [task-tinder](https://github.com/loganhc-09/task-tinder) | swipe-based task triage. It tracks *how* you finish things, so your AI can learn your patterns. |
 | [reading-scout](https://github.com/loganhc-09/reading-scout) | a reading agent that learns what you care about from your own conversations, then goes looking. |
 | [LinkedIn X-ray](https://loganhc-09.github.io/LinkedIn-Data-Export-Visualization/) | what LinkedIn's 50-file data export knows about you, visualized. Bring your own export. |
